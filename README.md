@@ -2,6 +2,6 @@
 스파르타 기술면접 스터디
 ***
 
-[객체지향](https://github.com/j-jh-Study/technical-interview/blob/main/OOP)
+[객체지향](https://github.com/j-jh-Study/technical-interview/blob/main/OOP.md)
 
 ***
