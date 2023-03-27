@@ -13,7 +13,7 @@ rest api
 (soap -> rest,, grapql등..)
 
 uri 어떻게 ~
-1. 동사
+1. 동사(x)
 2. 슬래쉬
 3. 하이픈
 4. 소문자 사용
