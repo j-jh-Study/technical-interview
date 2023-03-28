@@ -9,3 +9,9 @@
 [REST-API](https://github.com/j-jh-Study/technical-interview/blob/main/REST-API.md)
 
 ***
+
+[DI](https://github.com/j-jh-Study/technical-interview/blob/main/DI.md)
+
+***
+
+[INDEX](https://github.com/j-jh-Study/technical-interview/blob/main/index.md)
