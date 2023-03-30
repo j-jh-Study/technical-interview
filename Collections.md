@@ -54,6 +54,11 @@ Map 의경우
 - Hash 알고리즘 기반이 HashMap..!
 
 [Hash와 HashMap 상세내용](https://d2.naver.com/helloworld/831311)
+ 
+- java hashMap은 해시값 충돌을 피하는 방법으로  Separate Channing 사용 <-> Open Addressing  자료의 양이 많아질수록 separate 가 유리 
+- Separate Channing의 구현은 링크드리스트 -자료양이 많아지면->트리구조 
+ 
+ 
 <details><summary>map의 순차적 조회</summary>
 <p>
 hashmap은 Iterable 인터페이스를 구현하지 않았기때문 반복자를 사용 x
