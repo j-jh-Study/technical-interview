@@ -13,3 +13,7 @@
 - [MSA](https://github.com/j-jh-Study/technical-interview/blob/main/MSA.md)
 
 - [Generic](https://github.com/j-jh-Study/technical-interview/blob/main/Generic.md)
+
+- [Collections](https://github.com/j-jh-Study/technical-interview/blob/main/Collections.md)
+
+- [Paramete-Argument](https://github.com/j-jh-Study/technical-interview/blob/main/Paramete-Argument.md)
