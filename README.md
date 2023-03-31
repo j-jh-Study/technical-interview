@@ -17,3 +17,7 @@
 - [Collections](https://github.com/j-jh-Study/technical-interview/blob/main/Collections.md)
 
 - [Paramete-Argument](https://github.com/j-jh-Study/technical-interview/blob/main/Paramete-Argument.md)
+
+- [TCP,UDP](https://github.com/j-jh-Study/technical-interview/blob/main/tcp%2Cudp.md)
+
+- [Process,Thread](https://github.com/j-jh-Study/technical-interview/blob/main/Process-Thread.md)
