@@ -21,3 +21,7 @@
 - [TCP,UDP](https://github.com/j-jh-Study/technical-interview/blob/main/tcp%2Cudp.md)
 
 - [Process,Thread](https://github.com/j-jh-Study/technical-interview/blob/main/Process-Thread.md)
+
+- [웹서버,WAS](https://github.com/j-jh-Study/technical-interview/blob/main/%EC%9B%B9%EC%84%9C%EB%B2%84%2CWAS.md)
+
+- [Transaction](https://github.com/j-jh-Study/technical-interview/blob/main/Transaction.md)
