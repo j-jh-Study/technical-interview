@@ -25,3 +25,5 @@
 - [웹서버,WAS](https://github.com/j-jh-Study/technical-interview/blob/main/%EC%9B%B9%EC%84%9C%EB%B2%84%2CWAS.md)
 
 - [Transaction](https://github.com/j-jh-Study/technical-interview/blob/main/Transaction.md)
+
+- [Array-LinkedList](https://github.com/j-jh-Study/technical-interview/blob/main/Array-LinkedList.md) 와 [Stack, Queue](https://github.com/j-jh-Study/technical-interview/blob/main/Stack-Queue.md)
