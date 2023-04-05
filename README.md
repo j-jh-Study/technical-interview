@@ -28,3 +28,4 @@
 
 - [Array-LinkedList](https://github.com/j-jh-Study/technical-interview/blob/main/Array-LinkedList.md) 와 [Stack, Queue](https://github.com/j-jh-Study/technical-interview/blob/main/Stack-Queue.md)
 - [오버로딩, 오버라이딩](https://github.com/j-jh-Study/technical-interview/blob/main/%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9-%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9.md)
+- [시간복잡도, 공간봅잡도](https://github.com/j-jh-Study/technical-interview/issues/17)
